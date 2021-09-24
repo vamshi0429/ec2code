@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo service httpd start
+yum service httpd start
